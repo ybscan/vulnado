@@ -25,16 +25,3 @@ The docker network created by `docker-compose` maps pretty well to a multi-tier 
 * [RCE - Remote Code Execution & Reverse Shell](exercises/04-rce-reverse-shell.md)
 
 TEST
-TEST2
-TEST3
-TEST4
-TEST4
-Test5
-TEST6
-TEST7
-TEST8
-TEST9
-TEST10
-TEST11
-TEST12
-TEST13
